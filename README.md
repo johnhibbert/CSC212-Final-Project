@@ -16,4 +16,5 @@ Installation:
 3: Drag all the .java files into that project.
 4: Select FinalProject.java.
 5: Select run.
-6: Click the blue buttons to 
+6: Click the blue buttons to add appliances.
+7: Click the yellow buttons to remove appliances.
